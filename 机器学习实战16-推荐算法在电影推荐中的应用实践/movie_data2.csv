@@ -1,0 +1,19 @@
+user_id,movie_id,rating,title,genre,release_year
+1,1,5,"The Shawshank Redemption","Drama",1994
+1,2,4,"The Godfather","Crime",1972
+1,3,3,"Pulp Fiction","Crime",1994
+1,4,2,"Forrest Gump","Drama",1994
+2,1,4,"The Shawshank Redemption","Drama",1994
+2,2,5,"The Godfather","Crime",1972
+2,3,2,"Pulp Fiction","Crime",1994
+2,5,4,"The Dark Knight","Action",2008
+3,1,5,"The Shawshank Redemption","Drama",1994
+3,6,4,"Inception","Sci-Fi",2010
+3,7,3,"The Matrix","Sci-Fi",1999
+4,2,4,"The Godfather","Crime",1972
+4,4,5,"Forrest Gump","Drama",1994
+4,5,3,"The Dark Knight","Action",2008
+4,6,4,"Inception","Sci-Fi",2010
+5,3,3,"Pulp Fiction","Crime",1994
+5,7,4,"The Matrix","Sci-Fi",1999
+5,8,5,"Fight Club","Drama",1999
